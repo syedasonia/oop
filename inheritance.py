@@ -33,7 +33,7 @@ class dessert(menucatagories):
        
 food1 = drink("coke","£2","No-suger","Non-Alcoholic")
 food2 = starters("Dimsum","£10","chinese","chicken")
-food3 = starters("cuisines","£15","indian","lam")
+food3 = mainmenu("cuisines","£15","indian","lam")
 food4 = dessert("pie","£1","english","egg")
 
 print(food1.price)
